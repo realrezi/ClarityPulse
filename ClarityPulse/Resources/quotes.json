@@ -1,0 +1,27 @@
+[
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174001",
+    "text": "Breathe in peace, breathe out tension.",
+    "category": "Relaxation"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174002",
+    "text": "Your mind is a clear sky; thoughts are just passing clouds.",
+    "category": "Mindfulness"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174003",
+    "text": "Take a moment to pause. You have arrived.",
+    "category": "Grounding"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174004",
+    "text": "Embrace the stillness within you.",
+    "category": "Relaxation"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174005",
+    "text": "Every deep breath brings clarity and calm.",
+    "category": "Clarity"
+  }
+]

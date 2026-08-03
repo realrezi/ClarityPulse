@@ -1,0 +1,17 @@
+name: ClarityPulse
+options:
+  bundleIdPrefix: com.example
+targets:
+  ClarityPulse:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources: [ClarityPulse]
+    info:
+      path: ClarityPulse/Info.plist
+      properties:
+        UILaunchScreen: {}
+        LSRequiresIPhoneOS: true
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: false
+        LSApplicationCategoryType: public.app-category.lifestyle
